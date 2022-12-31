@@ -1,0 +1,10 @@
+# streaming app
+OUTPUT_MODE: 'update'
+CHECKPOINT_LOC: 'checkpoint-dir'
+OUTPUT_PATH: 'output'
+FORMAT: 'console'
+
+
+TOPIC_NAME: 'transactions'
+INPUT_DIR: 'mydata'
+EXCLUDED: ['customers.csv']

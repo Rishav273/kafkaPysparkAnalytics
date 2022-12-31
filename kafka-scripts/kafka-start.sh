@@ -1,0 +1,1 @@
+$KAFKA_PYSPARK_ANALYTICS_PROJECT_HOME/bin/kafka-server-start.sh $KAFKA_PYSPARK_ANALYTICS_PROJECT_HOME/config/server.properties

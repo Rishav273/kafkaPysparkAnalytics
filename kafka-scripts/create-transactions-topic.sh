@@ -1,0 +1,1 @@
+$KAFKA_PYSPARK_ANALYTICS_PROJECT_HOME/bin/kafka-topics.sh --create --topic transactions --bootstrap-server localhost:9092
