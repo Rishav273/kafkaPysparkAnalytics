@@ -96,4 +96,5 @@ python transactions-producer.py
 * Extending the application to build a full end-to-end use analytics case, using some databases like Cassandra / PostgreSQL.
 * Adding scheduling capabilities using Apache Airflow.
 * Adding dashboarding capabilities -- Power BI, Data Studio etc
+* Unit testing the application.
 
